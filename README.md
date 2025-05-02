@@ -62,6 +62,8 @@ The verification process ensures the correctness of assembly programs.
 Key steps include compiling, simulating with Spike, comparing expected output, and debugging with GDB if needed.
 
 ## Lab Work  
+
+
 ![Screenshot 2025-04-25 224414](https://github.com/user-attachments/assets/29dab975-e098-4568-9e6b-e41d77eb120d)
 
 
@@ -71,7 +73,7 @@ Key steps include compiling, simulating with Spike, comparing expected output, a
 ![Screenshot 2025-04-25 224326](https://github.com/user-attachments/assets/1eafeba5-0397-4b4d-9c5c-1a976325f767)
 
 
-![Screenshot 2025-04-25 220331](https://github.com/user-attachments/assets/2e4bc5f1-8baf-428e-8b46-4134859622d4)
+
 
 
 ![Screenshot 2025-04-25 220313](https://github.com/user-attachments/assets/aa5d7f0c-4848-4d1c-a879-6da2cb33ef69)
@@ -115,7 +117,12 @@ On Day 3, we explored fundamental concepts of digital logic design using TL-Veri
 
 ### Lab Work
 
+[code1](https://www.makerchip.com/sandbox/0yPfNhP8m/0g5hA7n)
+
 ![Screenshot 2025-04-24 114044](https://github.com/user-attachments/assets/5bacb580-c1b3-4b3e-9882-c617634e9931)
+
+
+[code1](https://www.makerchip.com/sandbox/0yPfNhP8m/0j2hnv1)
 
 
 ![Screenshot 2025-04-24 121549](https://github.com/user-attachments/assets/96417242-71be-4e50-a08d-bf781fc8d9a6)
@@ -148,26 +155,11 @@ The Branch stage checks if a branch condition (e.g., BEQ, BNE) is satisfied. If 
 
 [code](https://www.makerchip.com/sandbox/0kRfnhkLx/0Wnh53n)
 
-![Picture9](https://github.com/user-attachments/assets/e48b2320-6155-44a4-99b4-635312548b76)
-
-
-![Picture8](https://github.com/user-attachments/assets/d2ca6835-e00c-4794-8c6f-2b5845fbd7ee)
-
-
-![Picture7](https://github.com/user-attachments/assets/52658b03-2b29-455a-8692-d196bb74729c)
-
+![Picture9](https://github.com/user-attachments/assets/1bab482a-b14d-4b9e-b8b4-f7576938e24d)
 
 ![Picture6](https://github.com/user-attachments/assets/6ea90899-1c42-4720-a334-e593599b66b4)
 
-
-![Picture5](https://github.com/user-attachments/assets/d28304de-02bf-438a-9723-6b8d42566aa0)
-
-
 ![Picture4](https://github.com/user-attachments/assets/6adac80f-c376-4cda-b43e-24b206a12d30)
-
-
-![Picture3](https://github.com/user-attachments/assets/cf2ad945-c224-4395-a751-b7dc262a65d0)
-
 
 ![Picture2](https://github.com/user-attachments/assets/96873e2e-bffa-479d-9f04-4dd8856b9436)
 
@@ -202,33 +194,14 @@ The full RISC-V CPU integrates pipelined stages with proper hazard resolution an
 ![Picture10](https://github.com/user-attachments/assets/e8b24245-401e-42f1-bb60-2d2cf22fb6c8)
 
 
-
-
-
 ![Picture11](https://github.com/user-attachments/assets/756fd175-fcba-426c-bfdb-78b79731625c)
-
-
-
 
 ![Picture12](https://github.com/user-attachments/assets/82c62f52-6fcd-4c55-bd8c-7c78b565b582)
 
-
-
-
-
 ![Picture13](https://github.com/user-attachments/assets/eb6b17bd-ae64-4d68-908c-f0fe3d1d725f)
-
-
-
-
 
 ![Picture14](https://github.com/user-attachments/assets/94488695-bffd-4760-b56a-0700e6384c34)
 
-
-
-
-
-![Picture15](https://github.com/user-attachments/assets/a55c00cb-2882-4f10-9a34-dc6032b4f1f3)
 
 
 ### final RISC-V Core
