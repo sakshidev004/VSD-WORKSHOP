@@ -206,7 +206,7 @@ The full RISC-V CPU integrates pipelined stages with proper hazard resolution an
 
 ### final RISC-V Core
 
-[final](https://www.makerchip.com/sandbox/0kRfnhkLx/0RghvY2)
+[final](https://www.makerchip.com/sandbox/0rkfAhGAl/0lOh2vg#)
 
 ![Picture16](https://github.com/user-attachments/assets/e8378c21-3272-4f98-b83b-f5c346863479)
 
