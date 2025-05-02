@@ -31,7 +31,9 @@ This helped in understanding program flow and internal state.
 We covered the difference between signed and unsigned integers.  
 Signed numbers support both positive and negative values, while unsigned support only positive.
 
-## Lab work 
+
+
+
 ![sum1ton](https://github.com/user-attachments/assets/c79d4da1-69f8-447b-8217-93d564655e03)
 
 
@@ -143,6 +145,9 @@ The ALU performs arithmetic or logical operations based on the decoded instructi
 The Branch stage checks if a branch condition (e.g., BEQ, BNE) is satisfied. If true, the PC is updated to the branch target address. If false, the PC continues to the next instruction.
 
 ### Lab work
+
+[code](https://www.makerchip.com/sandbox/0kRfnhkLx/0Wnh53n)
+
 ![Picture9](https://github.com/user-attachments/assets/e48b2320-6155-44a4-99b4-635312548b76)
 
 
@@ -226,8 +231,10 @@ The full RISC-V CPU integrates pipelined stages with proper hazard resolution an
 ![Picture15](https://github.com/user-attachments/assets/a55c00cb-2882-4f10-9a34-dc6032b4f1f3)
 
 
-
 ### final RISC-V Core
+
+[final](https://www.makerchip.com/sandbox/0kRfnhkLx/0RghvY2)
+
 ![Picture16](https://github.com/user-attachments/assets/e8378c21-3272-4f98-b83b-f5c346863479)
 
 ---
