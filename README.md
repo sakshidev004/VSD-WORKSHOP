@@ -122,7 +122,7 @@ On Day 3, we explored fundamental concepts of digital logic design using TL-Veri
 ![Screenshot 2025-04-24 114044](https://github.com/user-attachments/assets/5bacb580-c1b3-4b3e-9882-c617634e9931)
 
 
-[code1](https://www.makerchip.com/sandbox/0yPfNhP8m/0j2hnv1)
+[code2](https://www.makerchip.com/sandbox/0yPfNhP8m/0j2hnv1)
 
 
 ![Screenshot 2025-04-24 121549](https://github.com/user-attachments/assets/96417242-71be-4e50-a08d-bf781fc8d9a6)
